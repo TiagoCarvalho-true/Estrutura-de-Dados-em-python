@@ -22,7 +22,5 @@ estrutura tem sua uniformização. Essas características podem ser utilizadas
 em estruturas para armazenamento de informações, como, por exemplo, 
 uma árvore genealógica."</a>
 
-<p align="center"> 
-  <img src="gif/pacman_game.gif" alt="Animated gif pacman game" height="282px" width="637">
-</p>
+
 
