@@ -8,7 +8,9 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<a src="https://proedu.rnp.br/bitstream/handle/123456789/1531/15.3_versao_Final_com_ISBN-Estrutura_de_Dados_07.07.14.pdf?sequence=1">"A natureza parece encontrar forma práticas de disposição de suas estruturas 
+<a src="https://proedu.rnp.br/bitstream/handle/123456789/1531/15.3_versao_Final_com_ISBN-Estrutura_de_Dados_07.07.14.pdf?sequence=1">saiba mais</a>
+
+  "A natureza parece encontrar forma práticas de disposição de suas estruturas 
 as quais, muitas vezes, são “copiadas” pelo homem. Um exemplo prático 
 é uma árvore. Nela temos o tronco, o qual sustenta os galhos que, por sua 
 vez, sustentam as folhas. O caminho percorrido pela seiva para atingir cada 
@@ -20,7 +22,7 @@ Podemos também observar no exemplo anterior certa padronização. As
 folhas e os frutos de uma árvore são praticamente idênticos e, assim, cada 
 estrutura tem sua uniformização. Essas características podem ser utilizadas 
 em estruturas para armazenamento de informações, como, por exemplo, 
-uma árvore genealógica."</a>
+uma árvore genealógica."
 
 
 
